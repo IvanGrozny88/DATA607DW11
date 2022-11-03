@@ -1,0 +1,45 @@
+---
+title: "DATA607DW11"
+author: "IvanTikhonov"
+date: "2022-11-02"
+output: html_document
+---
+
+  1.Recommender systems pinpoint user preferences and advise relevant content
+based on that information. One of my favorite recommender systems is Goodreads.
+Goodreads is one of the world’s largest sites for readers and book and movie recommendations.
+Target users include an audience who loves to read books and watch movies.
+It is also a place where you can see friends’ bookshelves and learn about
+what they thought of all their books or films, and vice versa. 
+The key goals include personalized book recommendations from community reviews,
+with a website recommendation engine analyzing 20 billing data points to give
+suggestions tailored to the audience’s literary tastes to help them accomplish those goals. 
+
+  2.Goodreads uses targeted ads to display features, products, and services that
+might interest the user, collecting information such as the user’s interactions
+with sites, content, or services. Goodreads analyzes cookies to understand 
+the effectiveness of clicked and viewed internet-based ads to provide users 
+with more useful and relevant ads. The website works with third parties, 
+such as advertisers, publishers, social media networks, search engines, 
+ad-serving companies, and advertising companies, to improve the relevance of its ads. 
+Choosing not to see internet-based ads will not affect other services that use cookies,
+and information may still be collected for other purposes. The Goodreads 
+API allows developers access to Goodreads data to develop more personalized
+websites or applications that deal with books. However, as of December 8th, 2020,
+Goodreads no longer issues new developer keys for public developer
+API and plans to retire the current version of these tools.
+
+  3.Goodreads uses item-item collaborating filtering, allowing users to
+see recommendations based on how they rate individual products. 
+For example, if you rate a book as 10/10, you will see the top-rated books
+with similar attributes. However, it can be challenging to get users to give
+item ratings. Knowing that item filtering works best when you have more
+users on the platform than items, I would attract more users to provide
+items rating by offering specific points or perks toward the next purchase.  
+
+  Goodreads Interest-Based Ads Notice https://help.goodreads.com/s/article/Goodreads-Interest-Based-Ads-Notice
+
+  Ad Preferences                      https://www.goodreads.com/adprefs
+
+  API                                 https://www.goodreads.com/api
+
